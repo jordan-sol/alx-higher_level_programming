@@ -1,3 +1,5 @@
 {
-    "files.insertFinalNewline": true
+    "files.insertFinalNewline": true,
+    "python.linting.banditEnabled": true,
+    "python.linting.pycodestyleEnabled": true
 }
